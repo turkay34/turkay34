@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are [classified except educational purposes](classified except educational purposes)
 
-- 📫 How to reach me **turkaybeyazay@gmail.com**
+- 📫 You can reach me via mail **turkaybeyazay@gmail.com** or linkedin address which is below
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
