@@ -1,7 +1,7 @@
 <h1 align="center">Hello! 👋, I'm Turkay</h1>
 <h3 align="center">I'm passionate Frontend Developer, my projects are 80% developed with React.js but i'm open to learn new languages/frameworks.</h3>
 
-- 🌱 I’m currently learning **Vue.js & Node.js**
+- 🌱 I’m currently learning **Vue.js**
 
 - 👨‍💻 All of my projects are [classified except educational purposes](classified except educational purposes)
 
