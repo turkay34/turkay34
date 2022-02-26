@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are [classified except educational purposes](classified except educational purposes)
 
-- 💬 Ask me about **React, HTML, CSS, JS, Django**
-
 - 📫 How to reach me **turkaybeyazay@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
