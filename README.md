@@ -5,6 +5,8 @@
 
 - 📫 You can reach me via mail **turkaybeyazay@gmail.com** or linkedin address which is below
 
+<img align="right" alt="code_gif" src="https://github.com/TamaraMalakhova/TamaraMalakhova/raw/main/code.gif" width="210" height="135" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/türkay beyazay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="türkay beyazay" height="30" width="40" /></a>
